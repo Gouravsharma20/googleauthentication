@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199498484526",
+    "project_id": "spspspspspsp-18de2",
+    "storage_bucket": "spspspspspsp-18de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199498484526:android:abe0da0ae83726c23148bf",
+        "android_client_info": {
+          "package_name": "wu.tutorials.spspspspspsp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxLW5sVEPwjmkadG_WUl2CPlyjAQzprI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
